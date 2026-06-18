@@ -1,0 +1,6 @@
+{
+  "name": "Consulta Tributária Reforma",
+  "description": "Simulador e buscador de enquadramentos tributários sob as regras da reforma tributária brasileira (CBS, IBS, IS) por NCM/NBS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
